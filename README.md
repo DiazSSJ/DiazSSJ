@@ -38,7 +38,7 @@
 
 ### Contact Me
 
-<a href="https://www.linkedin.com/in/juan-steban-diaz-ramirez-370679283/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Steban%20Diaz%20Ramirez-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/juan-steban-diaz-ramirez-370679283/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Juan%20Steban%20Diaz%20Ramirez-blue?style=flat-square&logo=linkedin&target=_blank"></a>
 <a href="juans0304@outlook.com"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-juans0304@outlook.com-blue?style=flat-square&logo=microsoftoutlook"></a>
 
 ### 📊 GitHub Stats:
