@@ -3,7 +3,7 @@
 
 ### About Me
 - I am 21 years old and I am from Cali, Colombia.
--I am currently studying Systems Engineering at Universidad del Valle. 
+- I am currently studying Systems Engineering at Universidad del Valle. 
 - I am a full stack MERN and PERN developer.
 - I am a self-taught and very creative person who seeks to learn and improve day by day.
 - I like working with the frontend because I want to provide the best visual experience to users who visit my projects.
