@@ -2,7 +2,7 @@
 <h2>Frontend Developer 🎨</h2>
 
 ### About Me
-- I am 21 years old and I am from Cali, Colombia.
+- I am 22 years old and I am from Cali, Colombia.
 - I am currently studying Systems Engineering at Universidad del Valle. 
 - I am a full stack MERN and PERN developer.
 - I am a self-taught and very creative person who seeks to learn and improve day by day.
